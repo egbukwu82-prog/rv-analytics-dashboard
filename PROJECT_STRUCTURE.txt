@@ -1,0 +1,30 @@
+.
+|____README.md
+|____PROJECT_STRUCTURE.txt
+|____tailwind.config.js
+|____vite.config.js
+|____src
+| |____utils
+| | |____dataProcessing.js
+| |____main.jsx
+| |____components
+| | |____RevenueChart.jsx
+| | |____InsightsPanel.jsx
+| | |____UtilizationChart.jsx
+| | |____Dashboard.jsx
+| | |____MetricsOverview.jsx
+| |____App.jsx
+| |____index.css
+| |____hooks
+| |____data
+| | |____sampleData.js
+|____package.json
+|____LICENSE
+|____public
+|____vercel.json
+|____PROJECT_CHECKLIST.md
+|____QUICKSTART.md
+|____index.html
+|____setup.sh
+|____.gitignore
+|____postcss.config.js

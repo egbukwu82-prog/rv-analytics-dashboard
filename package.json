@@ -1,0 +1,48 @@
+{
+  "name": "rv-analytics-dashboard",
+  "version": "1.0.0",
+  "description": "Interactive RV rental analytics dashboard - Identified $200K+ in operational waste",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext js,jsx",
+    "format": "prettier --write \"src/**/*.{js,jsx,json,css}\""
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.5.0",
+    "date-fns": "^2.30.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.42.0",
+    "eslint-plugin-react": "^7.32.2",
+    "postcss": "^8.4.24",
+    "prettier": "^2.8.8",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.9"
+  },
+  "keywords": [
+    "react",
+    "dashboard",
+    "analytics",
+    "data-visualization",
+    "business-intelligence",
+    "rv-rental",
+    "recharts"
+  ],
+  "author": "Prince - Athena Studio",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/[your-username]/rv-analytics-dashboard.git"
+  }
+}
