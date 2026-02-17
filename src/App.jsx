@@ -15,7 +15,7 @@ function App() {
             <div>
               <h1 className="text-3xl font-bold text-gray-900">RV Analytics Dashboard</h1>
               <p className="mt-1 text-sm text-gray-600">
-                CanaDream Case Study: $200K+ in Identified Operational Waste
+              RV Analytics Dashboard
               </p>
             </div>
             <div className="flex items-center space-x-2">
