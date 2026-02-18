@@ -15,7 +15,7 @@ An interactive analytics dashboard built to analyze RV rental operations data, r
 ## 💼 Business Impact: CanaDream Case Study
 
 ### The Challenge
-CanaDream RV, one of North America's largest RV rental companies, needed deeper insights into their fleet utilization and revenue optimization opportunities across multiple locations.
+The Biggest RV rental company in Canada, one of North America's largest RV rental companies, needed deeper insights into their fleet utilization and revenue optimization opportunities across multiple locations.
 
 ### The Solution
 Developed a comprehensive analytics dashboard that:
